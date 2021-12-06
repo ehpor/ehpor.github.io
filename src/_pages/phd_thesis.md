@@ -32,3 +32,9 @@ These new coronagraphy and wavefront sensing concepts pave the way for improved 
 <div><div style="position:relative;padding-top:56.25%;">
   <iframe width="100%" height="100%" style="position:absolute;top:0;left:0;" src="https://www.youtube.com/embed/vLdpUlVmtfc?modestbranding=1;showinfo=0;rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></div>
+
+## Defense
+
+I successfully defended my PhD dissertation on Friday, December 11, 2020 at 12:30 CET at the Academie building in Leiden. I wore a heartrate monitor on that day. Here are the results, annotated with significant events.
+
+<img class="img-fluid z-depth-1 rounded" src="{{ 'thesis_defense_heartrate.png' | prepend: '/assets/img/' | relative_url }}">
