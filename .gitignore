@@ -4,3 +4,4 @@
 .ruby-version
 .tweet-cache/
 Gemfile.lock
+docs/
